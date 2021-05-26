@@ -1,0 +1,12 @@
+<div>
+  <% for(var i = 0;i < '3'; i++){ %>
+  <div class="tw-text-3">{{ i }}</div>
+  <% } %>
+
+  <div class="parent">
+    <div class="child">
+      scss
+    </div>
+  </div>
+
+</div>

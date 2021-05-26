@@ -1,0 +1,15 @@
+.idea
+.vscode
+.history
+dist
+*node_modules
+*.DS_Store
+.log
+*.swo
+*.swp
+dll
+styleguide
+.nyc_output
+coverage
+/yarn.lock
+dump.rdb
